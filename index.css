@@ -1,0 +1,23 @@
+#main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-light-blue {
+  background-color: #e3f2fd;
+}
+
+#box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 600px; /* example height */
+  width: 600px; /* example width */
+  margin: auto;
+  border-radius: 10px;
+  border: 1px solid black;
+}
